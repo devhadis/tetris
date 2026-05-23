@@ -30,7 +30,7 @@ Abaixo está o mapeamento completo das conexões entre o Arduino Nano, o Display
 
 ### 1. Clonar no Simulador Wokwi
 Se preferir testar o ambiente virtualmente antes de ir para a bancada física:
-1. Acesse o [Wokwi](https://wokwi.com).
+1. Acesse o [Wokwi]([https://wokwi.com](http://wokwi.com/projects/464839653682657281)).
 2. Selecione a placa **Arduino Nano**.
 3. Na aba `diagram.json`, cole o código estruturado de conexões.
 4. Na aba principal do código (`.ino`), cole o algoritmo otimizado do Tetris.
